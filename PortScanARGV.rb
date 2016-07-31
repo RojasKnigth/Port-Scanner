@@ -33,6 +33,6 @@ unless ARGV.size <= 1 || ARGV.size > 2 then
 else
 	puts info
 	puts "Uso del Script: ".upcase  + "./#{$0} <Host> <Port>"
-	puts "Ej: ./#{$0} 127.0.0.1 21,22,80,445,1433"
+	puts "Ej: ./#{$0} 127.0.0.1 21,22,80,445,1433,3389"
 
 end
