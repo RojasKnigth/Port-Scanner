@@ -5,7 +5,7 @@ info = '''
 #Autor:Danny Rojas Reyes
 #Fecha:28/07/2016
 #Contacto:afarable-1997@hotmail.com
-#Descripcion: Escaner de puertos'''
+#Descripcion: Escaner de puertos basico'''
 
 
 require "socket"
